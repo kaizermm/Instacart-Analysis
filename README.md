@@ -16,7 +16,9 @@ This analysis focuses on understanding the behaviour of shoppers using Instacart
 ### Preview graph
 ![Orders Purchased Throughout the Day](https://github.com/kaizermm/Instacart-Analysis/assets/121756502/57683771-f9b2-4ce4-97e1-cff045a2be30)
 
+
 ![Purchased Orders During the Week](https://github.com/kaizermm/Instacart-Analysis/assets/121756502/709fcce5-52d2-4b9c-a3e2-1b92a4735c16)
+
 
 ![Days Since Prior Order - Number of Orders]![image](https://github.com/kaizermm/Instacart-Analysis/assets/121756502/17ce4baf-6e31-4bac-8562-fd198d3252e6)
 
